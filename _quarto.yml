@@ -84,3 +84,5 @@ filters:
 metadata-files:
   - _frontmatter.yml
  
+publish:
+  provider: gh-pages
