@@ -85,4 +85,4 @@ metadata-files:
   - _frontmatter.yml
  
 publish:
-  provider: gh-pages
+ provider: gh-pages
